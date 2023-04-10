@@ -35,6 +35,7 @@ export const ListaProdutos =()=>{
                      descricao={item.descricao}
                      valor= {item.valor}
                      tempoPreparo={item.tempoPreparo}
+                     
                  />
 ))}
                  
