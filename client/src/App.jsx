@@ -1,12 +1,18 @@
 import './App.css'
+import { Footer } from './components/Footer';
+import { Navbar } from './components/Navbar'
+
 
 function App() {
   
   return (
-    <h1>DEVIN FOODS</h1>
+    <div>
+      <Navbar/>
+      <Footer/>
+    </div>
       
-    
-  )
+  );
+  
 }
 
 export default App
