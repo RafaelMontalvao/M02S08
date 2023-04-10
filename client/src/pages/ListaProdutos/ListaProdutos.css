@@ -1,0 +1,12 @@
+.secao{
+
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    ;
+
+}
+
+.secao-title{
+    color: #ffb500
+}
